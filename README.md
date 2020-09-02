@@ -1,11 +1,13 @@
 # `<model-viewer>` codelab
 
-This is the starting template for a codelab giving a brief introduction to
-enhancing web pages with 3D content. Give it a try!
+This is a tutorial implementation from Google codelabs of using `<model-viewer>` to integrate 3-D models in web application. To get the same dynamic view as shown above, following through the provided steps. 
 
-The codelab will take you through a few steps to take a basic HTML file
-(`index.html`) through adding a 3D model, and gradually adding more
-interactivity and changing how it looks.
+1. Clone the repository
+2. `npm install -g serve`
+3. `serve`: This will start your application at `http://localhost:5000`
+To Run the application as an AR enabled view, requirement of `ngrok` is required. Perform the following steps in another terminal.
+4. `npm install -g ngrok`
+5. `ngrok http 5000`: This will result in a `https:` url that can be viewed through any other device as well. 
 
 # 3D models
 
