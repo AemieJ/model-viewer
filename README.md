@@ -1,6 +1,8 @@
 # `<model-viewer>` codelab
 
-[3D View](https://github.com/AemieJ/model-viewer/demo.gif)
+<p align="center"> 
+  <img src="https://github.com/AemieJ/model-viewer/blob/master/demo.gif" alt="3D View" />
+</p>
 
 This is a tutorial implementation from Google codelabs of using `<model-viewer>` to integrate 3-D models in web application. To get the same dynamic view as shown above, following through the provided steps. 
 
